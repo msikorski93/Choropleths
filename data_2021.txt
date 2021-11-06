@@ -1,0 +1,17 @@
+wojewodztwo,stopa
+dolnośląskie,5.2
+podkarpackie,8.4
+lubuskie,5.4
+śląskie,6.3
+opolskie,4.6
+wielkopolskie,3.4
+mazowieckie,4.9
+lubelskie,7.5
+zachodniopomorskie,7.4
+świętokrzyskie,7.7
+kujawsko-pomorskie,8.1
+podlaskie,7.4
+małopolskie,4.9
+pomorskie,5.6
+warmińsko-mazurskie,8.7
+łódzkie,6.0
